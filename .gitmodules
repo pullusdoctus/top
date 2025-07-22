@@ -1,3 +1,6 @@
 [submodule "recipes"]
 	path = recipes
 	url = https://github.com/pullusdoctus/recipes
+[submodule "css-exercises"]
+	path = css-exercises
+	url = git@pd:pullusdoctus/css-exercises.git
